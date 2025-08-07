@@ -16,14 +16,14 @@
 
 ## 📊 My "bad" statistic
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naikoo-cmd-coder&show_icons=true&theme=radical&hide=prs,issues" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naikoo-cmd-coder&layout=compact&theme=radical&cache_seconds=4000" />
-  <img src="https://streak-stats.demolab.com?user=naikoo-cmd-coder&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naikoo-cmd&show_icons=true&theme=radical&hide=prs,issues" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naikoo-cmd&layout=compact&theme=radical&cache_seconds=4000" />
+  <img src="https://streak-stats.demolab.com?user=naikoo-cmd&theme=radical" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naikoo-cmd-coder&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=naikoo-cmd&color=blue" alt="Profile Views"/>
 </p>
 
 <p align="center">

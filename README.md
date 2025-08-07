@@ -22,9 +22,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naikoo-cmd&color=blue" alt="Profile Views"/>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Let%27s+collaborate+and+build+something+awesome!" />

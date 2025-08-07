@@ -1,4 +1,4 @@
-# Hi, I'm Naiko! 👋
+# Hi, I'm Nico! 👋
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
@@ -16,14 +16,14 @@
 
 ## 📊 My "bad" statistic
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naiko-coder&show_icons=true&theme=radical&hide=prs,issues" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiko-coder&layout=compact&theme=radical&cache_seconds=4000" />
-  <img src="https://streak-stats.demolab.com?user=naiko-coder&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naikoo-cmd-coder&show_icons=true&theme=radical&hide=prs,issues" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naikoo-cmd-coder&layout=compact&theme=radical&cache_seconds=4000" />
+  <img src="https://streak-stats.demolab.com?user=naikoo-cmd-coder&theme=radical" />
 </p>
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naiko-coder&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=naikoo-cmd-coder&color=blue" alt="Profile Views"/>
 </p>
 
 <p align="center">

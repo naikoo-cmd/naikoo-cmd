@@ -11,16 +11,7 @@
 - ☁️ Deployment: Familiar with [Vercel](vercel.com)
 - 📫 Contact: [Instagram](https://instagram.com/nico_aramy) | [LinkedIn](https://linkedin.com/in/nico-aramy)
 - 🖥️ Check out my portfolio: [nicoaramy.com](https://nicoaramy.com)
-
----
-
-## 📊 My "bad" statistic
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naikoo-cmd&show_icons=true&theme=radical&hide=prs,issues" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naikoo-cmd&layout=compact&theme=radical&cache_seconds=4000" />
-  <img src="https://streak-stats.demolab.com?user=naikoo-cmd&theme=radical" />
-</p>
-
+- 
 ---
 
 <p align="center">

@@ -15,8 +15,6 @@
 - 💻 Passionate Full Stack Developer: JavaScript, TypeScript, Next.js, Node.js, Laravel, Express, MySQL
 - 🌐 Experienced in building web apps from backend to frontend
 - ☁️ Deployment: Familiar with [Vercel](https://vercel.com)
-- 📫 Contact: [Instagram](https://instagram.com/nico_aramy) | [LinkedIn](https://linkedin.com/in/nico-aramy)
-- 🖥️ Check out my portfolio: [nicoaramy.com](https://nicoaramy.com)
 
 ---
 

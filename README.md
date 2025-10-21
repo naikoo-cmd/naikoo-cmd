@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning: React and modern front-end development (maybe back-end too)
-- 💻 Passionate Full Stack Developer: JavaScript, TypeScript, Next.js, Node.js, Laravel, Express, MySQL
+- 💻 Passionate Full Stack Developer: JavaScript, TypeScript, Next.js, Node.js, Laravel, Express, MySQL, Nuxt 3, Vue.js
 - 🌐 Experienced in building web apps from backend to frontend
 - ☁️ Deployment: Familiar with [Vercel](https://vercel.com)|[Cloudflare](https://www.cloudflare.com/)|[DomaiNesia](https://www.domainesia.com/)
 

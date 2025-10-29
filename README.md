@@ -1,4 +1,6 @@
-# Hi, I'm Nico! 👋
+<div align="center">
+  <h1>Hi, I'm Nico! 👋</h1>
+</div>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
@@ -12,7 +14,7 @@
 
 ## 🚀 About Me
 - 🌱 Currently learning: React and modern front-end development (maybe back-end too)
-- 💻 Passionate Full Stack Developer: JavaScript, TypeScript, Next.js, Node.js, Laravel, Express, MySQL, Nuxt 3, Vue.js
+- 💻 Passionate Full Stack Developer: JavaScript, TypeScript, Next.js, Node.js, Laravel, MySQL, Nuxt 3, Vue.js
 - 🌐 Experienced in building web apps from backend to frontend
 - ☁️ Deployment: Familiar with [Vercel](https://vercel.com)|[Cloudflare](https://www.cloudflare.com/)|[DomaiNesia](https://www.domainesia.com/)
 

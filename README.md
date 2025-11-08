@@ -3,40 +3,56 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="150" alt="Coding Gif"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F70000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Let's+collaborate+and+build+something+great!;Fullstack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F70000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Let's+build+something+great!;Fullstack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning: React and modern front-end development (maybe back-end too)
-- 💻 Passionate Full Stack Developer: JavaScript, TypeScript, Next.js, Node.js, Laravel, MySQL, Nuxt 3, Vue.js
-- 🌐 Experienced in building web apps from backend to frontend
-- ☁️ Deployment: Familiar with [Vercel](https://vercel.com)|[Render](https://render.com/)|[Cloudflare](https://www.cloudflare.com/)|[DomaiNesia](https://www.domainesia.com/)
+- 🌱 Currently leveling up in full-stack development with React, Next.js, and Node.js  
+- 💻 Passionate Full Stack Developer using JavaScript, TypeScript, Vue, Nuxt, and Laravel  
+- 🌐 Skilled in building modern, scalable web applications from backend to frontend  
+- ☁️ Deployment experience with [Vercel](https://vercel.com), [Render](https://render.com/), [Cloudflare](https://www.cloudflare.com/), and [DomaiNesia](https://www.domainesia.com/)
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ---
 
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naikoo-cmd&show_icons=true&theme=radical&hide=prs" alt="naikoo-cmd's GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naikoo-cmd&theme=radical" alt="naikoo-cmd's GitHub streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naikoo-cmd&show_icons=true&theme=radical&hide=prs" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naikoo-cmd&theme=radical" height="180" alt="GitHub Streak"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naikoo-cmd&layout=compact&theme=radical" alt="Top Langs" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naikoo-cmd&layout=compact&theme=radical" height="130" alt="Top Languages"/>
 </p>
+
 
 ---
 
-## 🏆 My Github Trophies
+## 🏆 My GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naikoo-cmd&theme=radical&margin-w=15&no-frame=true" alt="trophy"/>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naikoo-cmd&theme=radical&margin-w=15&no-frame=true&no-bg=true&title=Stars,Followers,Commits,Repositories,Experience,Contributions" alt="GitHub Trophies"/>
+</div>
 
 ---
 
@@ -47,6 +63,18 @@
   <a href="https://linkedin.com/in/nico-aramy" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:nicoaramy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://nicoaramy.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naikoo-cmd&color=ff005c&style=flat-square" alt="Profile views"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/naikoo-cmd/naikoo-cmd/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---

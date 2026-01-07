@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F70000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Let's+build+something+great!;Fullstack+Developer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=F70000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Let%27s+build+something+great!;I%27m+a+Full-Stack+Developer;Open-Source+Enthusiast" alt="Typing SVG"/>
 </p>
 
 ---
@@ -30,31 +30,8 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-8250df?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
-
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naikoo-cmd&show_icons=true&theme=radical&hide=prs" height="180" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naikoo-cmd&theme=radical" height="180" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naikoo-cmd&layout=compact&theme=radical" height="130" alt="Top Languages"/>
-</p>
-
-
----
-
-## 🏆 My GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naikoo-cmd&theme=radical&margin-w=15&no-frame=true&no-bg=true&title=Stars,Followers,Commits,Repositories,Experience,Contributions" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## ☕ Let's Connect!
 

@@ -44,6 +44,19 @@
 
 ---
 
+## 🌐 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naikoo-cmd&layout=compact&theme=radical&hide_border=true"
+    alt="Most Used Languages"
+  />
+</p>
+
+
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=naikoo-cmd&color=ff005c&style=flat-square" alt="Profile views"/>
 </p>

@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/PHP-8250df?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-
-## 🌐 Most Used Languages
-
 <p align="center">
   <img
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naikoo-cmd&layout=compact&theme=radical&hide_border=true"

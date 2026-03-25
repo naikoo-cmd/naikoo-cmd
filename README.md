@@ -11,16 +11,7 @@
   <img src="https://img.shields.io/badge/PHP-8250df?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naikoo-cmd&layout=compact&theme=radical&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naikoo-cmd&color=ff005c&style=flat-square" alt="Profile views"/>
-</p>
 
 <p align="center">
   <a href="https://instagram.com/nico_aramy" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -29,6 +20,9 @@
   <a href="https://nicoaramy.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naikoo-cmd&color=ff005c&style=flat-square" alt="Profile views"/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/naikoo-cmd/naikoo-cmd/output/github-contribution-grid-snake.svg" alt="snake animation"/>
